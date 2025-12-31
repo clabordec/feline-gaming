@@ -22,3 +22,13 @@ VALUES
   (3, 1, '2025-08-11 19:00:00');
 
 
+-- Verify that the records were successfully added to the customers table
+SELECT * FROM customers;
+
+
+-- Verify that the records were successfully added to the combos table
+SELECT * FROM combos;
+
+
+-- Verify that the records were successfully added to the orders table
+SELECT * FROM orders;
