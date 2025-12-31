@@ -20,7 +20,7 @@ CREATE TABLE orders (
 	order_id INT PRIMARY AUTO_INCREMENT,
 	customer_id INT,
 	combo_id INT,
-	order_time DATE,
+	order_time DATETIME,
 	FOREIGN KEY (customer_id) REFERENCES customers(customer_id),
 	FOREIGN KEY (combo_id) REFERENCES combos(combo_id)
 
@@ -37,3 +37,4 @@ DESCRIBE combos;
 
 -- Verify the information on the orders table
 DESCRIBE orders;
+
