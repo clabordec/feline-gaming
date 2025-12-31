@@ -61,10 +61,10 @@ Feline Foods is a project centered around a local retro gaming club that hosts a
 ---
 
 🛠 **Skills Utilized**  
-- **Active Directory** to manage and create users, groups and computers.
-- **Group Policy** to ensure proper security and software management.
-- **Remote Desktop** to remote into the user's machine and troubleshoot the current issue.
-- **PDQ** to deploy software in the background to 1 or more machines without interrupting the uesr.
+- **DQL/DRL** to retrieve and filter out certain parts of the data.
+- **DML** to manipulate, make changes or get rid of duplicates or typos within the data.
+- **DDL** to create the structure within the database and to create the database itself.
+- **Indexing** to speed up the retrieval of information by organizing data into a searchable structure.
 
 ---
 
