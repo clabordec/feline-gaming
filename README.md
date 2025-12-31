@@ -15,7 +15,7 @@ Feline Foods is a project centered around a local retro gaming club that hosts a
 ---
 
 ✨ **Diagram**  
-
+```
 +------------------+       +------------------+
 |     Members      |       |      Games       |
 +------------------+       +------------------+
@@ -51,7 +51,7 @@ Feline Foods is a project centered around a local retro gaming club that hosts a
           | completion_time     |        +---------------------+
           | ranking             |
           +---------------------+
-
+```
 
 ---
 
