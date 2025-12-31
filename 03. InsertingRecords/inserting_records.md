@@ -36,20 +36,20 @@ This project outlines the database creation of Feline Foods<br />
 
 <h1>Actions and Observations</h1>
 
-## Creating the database
-### Create the database felinefoods
+## Ading the values into the tables
+### Inserting records into the customers table
 <p>
-<img src="https://github.com/user-attachments/assets/9b2f4f58-ba5e-4326-98de-3004bdf04009" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/795234b1-d136-46b2-aa93-b2a8f0a9a189" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Check if the database is currently selected, the `NULL` means that there is not a database selected
+### Inserting records into the combos table
 <p>
-<img src="https://github.com/user-attachments/assets/e7ddbf9c-81cd-4a9c-9177-59748c10ecca" width="550" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://github.com/user-attachments/assets/be06ef5e-4894-494c-8e76-e397ef22286e" width="550" alt="Disk Sanitization Steps"/>
+</p> 
 
-### Select the felinefoods database
+### Inserting records into the orders table
 <p>
-<img src="https://github.com/user-attachments/assets/cfb7d1e0-7af9-4d23-8dfa-aa25c3476c37" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/f89d7673-184e-437c-ad20-c224a481a7a0" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
 ### Double chekc again to see if the database has been selected, the felinefoods database should now be selected
