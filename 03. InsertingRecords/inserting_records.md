@@ -36,7 +36,7 @@ This project outlines the database creation of Feline Foods<br />
 
 <h1>Actions and Observations</h1>
 
-## Ading the values into the tables
+## Adding the values into the tables
 ### Inserting records into the customers table
 <p>
 <img src="https://github.com/user-attachments/assets/795234b1-d136-46b2-aa93-b2a8f0a9a189" width="550" alt="Disk Sanitization Steps"/>
