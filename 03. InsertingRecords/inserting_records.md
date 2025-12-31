@@ -52,9 +52,19 @@ This project outlines the database creation of Feline Foods<br />
 <img src="https://github.com/user-attachments/assets/f89d7673-184e-437c-ad20-c224a481a7a0" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Double chekc again to see if the database has been selected, the felinefoods database should now be selected
+### Verify the customers table
 <p>
-<img src="https://github.com/user-attachments/assets/d70b10d6-d86e-4d01-96c3-d9e94b7c88fc" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/45aa2400-af40-4df1-9ff4-c15eea9f804a" width="550" alt="Disk Sanitization Steps"/>
+</p> 
+
+### Verify the combos table
+<p>
+<img src="https://github.com/user-attachments/assets/07590d3a-6ef2-4a02-b7d0-ddcbcdeac961" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Verify the orders table
+<p>
+<img src="https://github.com/user-attachments/assets/754c4014-17d2-4855-95cd-5e3be458ee26" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
 
