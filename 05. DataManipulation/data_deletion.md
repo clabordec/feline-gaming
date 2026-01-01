@@ -41,7 +41,7 @@ As with the UPDATE command, please exercise caution when using DELETE. Always en
 
 ### Verify the results
 <p>
-<img src="https://github.com/user-attachments/assets/f89d7673-184e-437c-ad20-c224a481a7a0" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/52834c74-6069-4846-bf2f-c7308b9e5752" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
 
