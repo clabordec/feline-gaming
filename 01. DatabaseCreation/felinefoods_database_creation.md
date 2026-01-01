@@ -41,7 +41,7 @@ This project outlines the database creation of Feline Foods<br />
 <img src="https://github.com/user-attachments/assets/cfb7d1e0-7af9-4d23-8dfa-aa25c3476c37" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Double chekc again to see if the database has been selected, the felinefoods database should now be selected
+### Double check again to see if the database has been selected, the felinefoods database should now be selected
 <p>
 <img src="https://github.com/user-attachments/assets/d70b10d6-d86e-4d01-96c3-d9e94b7c88fc" width="550" alt="Disk Sanitization Steps"/>
 </p>
