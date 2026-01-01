@@ -28,35 +28,20 @@ As with the UPDATE command, please exercise caution when using DELETE. Always en
 
 <h1>Actions and Observations</h1>
 
-## Adding the values into the tables
-### Inserting records into the customers table
+## Deleting records from a table
+### View the current records in the orders table
 <p>
-<img src="https://github.com/user-attachments/assets/795234b1-d136-46b2-aa93-b2a8f0a9a189" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/ef751cf5-bb54-4340-92fa-5fbf675b974a" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Inserting records into the combos table
+### Delete customer order number 2
 <p>
-<img src="https://github.com/user-attachments/assets/be06ef5e-4894-494c-8e76-e397ef22286e" width="550" alt="Disk Sanitization Steps"/>
-</p> 
+<img src="https://github.com/user-attachments/assets/72d6132a-e1d5-4e06-9b26-5a53855de399" width="550" alt="Disk Sanitization Steps"/>
+</p>
 
-### Inserting records into the orders table
+### Verify the results
 <p>
 <img src="https://github.com/user-attachments/assets/f89d7673-184e-437c-ad20-c224a481a7a0" width="550" alt="Disk Sanitization Steps"/>
-</p>
-
-### Verify the customers table
-<p>
-<img src="https://github.com/user-attachments/assets/45aa2400-af40-4df1-9ff4-c15eea9f804a" width="550" alt="Disk Sanitization Steps"/>
-</p> 
-
-### Verify the combos table
-<p>
-<img src="https://github.com/user-attachments/assets/07590d3a-6ef2-4a02-b7d0-ddcbcdeac961" width="550" alt="Disk Sanitization Steps"/>
-</p>
-
-### Verify the orders table
-<p>
-<img src="https://github.com/user-attachments/assets/754c4014-17d2-4855-95cd-5e3be458ee26" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
 
