@@ -1,3 +1,4 @@
+-- Get the orders and combos from all customers
 SELECT cu.name,
 	   cu.contact,
 	   cu.address,
