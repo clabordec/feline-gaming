@@ -22,6 +22,7 @@ Once the update is executed successfully, you can verify the changes by using th
 
 `SELECT * FROM combos;`
 
+Upon reviewing the updated table, the data should now show "Sushi Combo" in place of "Sushi Bento."
 
 
 <br>
@@ -29,36 +30,22 @@ Once the update is executed successfully, you can verify the changes by using th
 
 <h1>Actions and Observations</h1>
 
-## Adding the values into the tables
-### Inserting records into the customers table
+## Updating the Combos table
+### View the combos table to see the error
+### In this case, Sushi Bento needs to be replaced with Sushi Combo permanently
 <p>
-<img src="https://github.com/user-attachments/assets/795234b1-d136-46b2-aa93-b2a8f0a9a189" width="550" alt="Disk Sanitization Steps"/>
-</p>
-
-### Inserting records into the combos table
-<p>
-<img src="https://github.com/user-attachments/assets/be06ef5e-4894-494c-8e76-e397ef22286e" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/f7719c4a-3e90-48b3-9567-1ae80f6f88a6" width="550" alt="Disk Sanitization Steps"/>
 </p> 
 
-### Inserting records into the orders table
+### Change the Sushi Bento record to Sushi Combo
 <p>
-<img src="https://github.com/user-attachments/assets/f89d7673-184e-437c-ad20-c224a481a7a0" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/2ef60845-8dd4-4035-b326-4a7d231fd396" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Verify the customers table
+### Verify the changes
 <p>
-<img src="https://github.com/user-attachments/assets/45aa2400-af40-4df1-9ff4-c15eea9f804a" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/38372fda-c4f3-439f-9a4d-f42cfa9c8e0d" width="550" alt="Disk Sanitization Steps"/>
 </p> 
-
-### Verify the combos table
-<p>
-<img src="https://github.com/user-attachments/assets/07590d3a-6ef2-4a02-b7d0-ddcbcdeac961" width="550" alt="Disk Sanitization Steps"/>
-</p>
-
-### Verify the orders table
-<p>
-<img src="https://github.com/user-attachments/assets/754c4014-17d2-4855-95cd-5e3be458ee26" width="550" alt="Disk Sanitization Steps"/>
-</p>
 
 
 ---
