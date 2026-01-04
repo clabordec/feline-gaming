@@ -1,8 +1,8 @@
-#  Feline Foods
+#  Feline Gaming
 
 📌 **Overview**  
 
-Feline Foods is a project centered around a local retro gaming club that hosts a recurring Friday night meetup, where members compete on classic single-player titles such as Super Mario, Sonic the Hedgehog, and Need for Speed.
+Feline Gaming is a project centered around a local retro gaming club that hosts a recurring Friday night meetup, where members compete on classic single-player titles such as Super Mario, Sonic the Hedgehog, and Need for Speed.
 
 ---
 
