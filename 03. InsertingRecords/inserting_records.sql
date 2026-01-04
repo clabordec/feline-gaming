@@ -1,34 +1,34 @@
--- Add reords into the customers table
-INSERT INTO customers (name, contact, address)
+-- Insert players records into the players table
+INSERT INTO players (name)
 VALUES
-  ('Kody', '42 Feline Farm', '555-0100'),
-  ('Fluffy', '12 Catnip Close', '555-0101'),
-  ('Paws',   '99 Whisker Way',  '555-0102');
+	('Kody'),
+	('Fluffy');
 	
 
--- Add reords into the combos table
-INSERT INTO combos (name, price)
+-- Insert games records into the games table
+INSERT INTO games (title)
 VALUES
-  ('Fish & Chips', 8.50),
-  ('Sushi Bento', 12.00),
-  ('Pasta Combo', 10.00);
+	('Super Mario'),
+	('Sonic the Hedgehog'),
+	('Need for Speed');
 	
 
--- Add reords into the orders table
-INSERT INTO orders (customer_id, combo_id, order_time)
+-- Insert scores records into the scores table
+INSERT INTO scores (player_id, game_id, score, date_played)
 VALUES
-  (1, 3, '2025-08-10 12:30:00'),
-  (2, 2, '2025-08-10 13:15:00'),
-  (3, 1, '2025-08-11 19:00:00');
+  (1, 1, 92000, '2025-07-10'),
+  (2, 1, 87000, '2025-07-10'),
+  (1, 2, 94000, '2025-07-12');
 
 
--- Verify that the records were successfully added to the customers table
-SELECT * FROM customers;
+-- Verify that the records were successfully added to the players table
+SELECT * FROM players;
 
 
--- Verify that the records were successfully added to the combos table
-SELECT * FROM combos;
+-- Verify that the records were successfully added to the games table
+SELECT * FROM games;
 
 
--- Verify that the records were successfully added to the orders table
-SELECT * FROM orders;
+-- Verify that the records were successfully added to the scores table
+SELECT * FROM scores;
+
