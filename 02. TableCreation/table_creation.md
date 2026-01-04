@@ -1,5 +1,5 @@
-<h1>Feline Foods Table Creation</h1>
-This project outlines the creation of tables within the Feline Foods database<br />
+<h1>Feline Games Table Creation</h1>
+This project outlines the creation of tables within the Feline Games database<br />
 
 
 <h2>Environments and Technologies Used</h2>
