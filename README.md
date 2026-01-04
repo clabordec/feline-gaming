@@ -14,7 +14,7 @@ Feline Gaming is a project centered around a local retro gaming club that hosts 
 
 ---
 
-✨ **Diagram**  
+✨ **Database Schema**  
 ```
 
 +--------------------+            +--------------------+
