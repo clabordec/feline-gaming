@@ -23,6 +23,7 @@ This project outlines the creation of tables within the Feline Foods database<br
 ```
 Purpose: Stores details of each game available in the system.
 
+<br>
 
 2. players Table
 ```
@@ -33,6 +34,7 @@ Purpose: Stores details of each game available in the system.
 ```
 Purpose: Contains information about all registered players.
 
+<br>
 
 3. scores Table
 ```
@@ -46,6 +48,8 @@ Purpose: Contains information about all registered players.
 ```
 Purpose: Serves as a linking table (junction table) between games and players, recording which player played which game, the score achieved, and the date of play.
 
+<br>
+<br>
 
 ## Relationships
 
