@@ -49,7 +49,6 @@ Purpose: Contains information about all registered players.
 Purpose: Serves as a linking table (junction table) between games and players, recording which player played which game, the score achieved, and the date of play.
 
 <br>
-<br>
 
 ## Relationships
 
