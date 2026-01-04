@@ -19,9 +19,9 @@ This project outlines the database creation of Feline Foods<br />
   -  name: 'Fluffy'
 
 -  Insert games records into the games table with the following values:
-    -  title: 'Fish & Chips'
-    -  title: 'Sushi Bento'
-    -  title: 'Pasta Combo'
+    -  title: 'Super Mario'
+    -  title: 'Sonic the Hedgehog'
+    -  title: 'Need for Speed'
 
 - Insert scores into the scores table with the following values:
   -  player_id: 1, game_id: 1, score: 92000, date_played: '2025-07-10'
