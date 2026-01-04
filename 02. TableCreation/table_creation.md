@@ -95,8 +95,8 @@ The diagram models a gaming database where:
 
 ### Get information from the newly created tables
 <p>
-<img src="https://github.com/user-attachments/assets/27412f49-296b-4ba5-b323-1135dd8bfb28" width="550" alt="Disk Sanitization Steps"/>
-</p> 
+<img src="https://github.com/user-attachments/assets/b6df2b47-ca69-411c-982a-3fb578c23829" width="550" alt="Disk Sanitization Steps"/>
+</p>
 
 ---
 
