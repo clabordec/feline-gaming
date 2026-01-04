@@ -1,5 +1,5 @@
 <h1>Inserting records within each table for the Feline Foods database</h1>
-This project outlines the database creation of Feline Foods<br />
+This project outlines inserting records into the created tables<br />
 
 
 <h2>Environments and Technologies Used</h2>
