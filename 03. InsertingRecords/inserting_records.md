@@ -36,34 +36,34 @@ This project outlines the database creation of Feline Foods<br />
 <h1>Actions and Observations</h1>
 
 ## Adding the values into the tables
-### Inserting records into the customers table
+### Inserting records into the players table
 <p>
-<img src="https://github.com/user-attachments/assets/795234b1-d136-46b2-aa93-b2a8f0a9a189" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/392922b7-9cd7-4854-ae03-ce8c1d3f9644" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Inserting records into the combos table
+### Inserting records into the games table
 <p>
-<img src="https://github.com/user-attachments/assets/be06ef5e-4894-494c-8e76-e397ef22286e" width="550" alt="Disk Sanitization Steps"/>
-</p> 
-
-### Inserting records into the orders table
-<p>
-<img src="https://github.com/user-attachments/assets/f89d7673-184e-437c-ad20-c224a481a7a0" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/212660fa-0afc-4d24-8f63-7c5a6754adc5" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Verify the customers table
+### Inserting records into the scores table
 <p>
-<img src="https://github.com/user-attachments/assets/45aa2400-af40-4df1-9ff4-c15eea9f804a" width="550" alt="Disk Sanitization Steps"/>
-</p> 
-
-### Verify the combos table
-<p>
-<img src="https://github.com/user-attachments/assets/07590d3a-6ef2-4a02-b7d0-ddcbcdeac961" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/03ffa57c-a23b-467d-99dc-9560c5b95910" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Verify the orders table
+### Verify the players table
 <p>
-<img src="https://github.com/user-attachments/assets/754c4014-17d2-4855-95cd-5e3be458ee26" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/65f9cdae-cc0d-46bb-8311-86fe13cbc59d" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Verify the games table
+<p>
+<img src="https://github.com/user-attachments/assets/6896c84e-55e7-47ee-b83d-6165e50aebb7" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Verify the scores table
+<p>
+<img src="https://github.com/user-attachments/assets/b75cf461-1402-40f0-a90f-df784855c3ac" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
 
