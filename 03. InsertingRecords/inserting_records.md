@@ -1,4 +1,4 @@
-<h1>Inserting records within each table for the Feline Foods database</h1>
+<h1>Inserting records within each table for the Feline Games database</h1>
 This project outlines inserting records into the created tables<br />
 
 
